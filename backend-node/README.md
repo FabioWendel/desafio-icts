@@ -15,7 +15,7 @@
 npm install
 ```
 
-- **BD Postgre**
+- **BD Mysql**
 ```
 npm install mysql
 ```
